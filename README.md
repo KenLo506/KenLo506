@@ -1,6 +1,5 @@
 ## Hi! I'm Ken
-   I am a software engineer from New York and I'm currently on a job search.
-   I recently graduated from Queens College with a Computer Science Degree. 
+   I am a software engineer from New York.
    I'm currently working on open source projects like krita and doing freelance work on the side. 
    Feel free to reach out to me via email: loken506@gmail.com
    
